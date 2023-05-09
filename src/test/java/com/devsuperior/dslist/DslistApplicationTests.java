@@ -1,10 +1,10 @@
-package com.devsuperior.sdlist;
+package com.devsuperior.dslist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SdlistApplicationTests {
+class DslistApplicationTests {
 
 	@Test
 	void contextLoads() {
